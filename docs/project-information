@@ -1,0 +1,63 @@
+# Project Information
+
+## Project identity
+
+**Project name:** RadioMaster Kazakh Voice Pack
+
+**Language:** Kazakh / Қазақ тілі
+
+**Country of origin:** Kazakhstan
+
+**Initial release:** 2026
+
+## Purpose
+
+The project was created to introduce a high-quality Kazakh-language voice interface for RadioMaster radio control systems.
+
+The project is intended to support:
+
+- FPV pilots;
+- RC model users;
+- drone clubs;
+- robotics clubs;
+- technical education;
+- Kazakh-speaking users;
+- educators and students.
+
+## Localization
+
+The localization includes the translation of technical voice messages used by compatible RadioMaster systems.
+
+Particular attention is given to:
+
+- correct Kazakh terminology;
+- natural pronunciation;
+- clarity of voice messages;
+- technical meaning;
+- consistency of terminology.
+
+## Voice recording
+
+The translated messages were professionally recorded by:
+
+[ИМЯ ДИКТОРА]
+
+## Copyright
+
+Kazakh localization:
+
+[ТВОЁ ПОЛНОЕ ИМЯ]
+
+Voice:
+
+[ИМЯ ДИКТОРА]
+
+Copyright © 2026.
+
+## Distribution
+
+The project is intended to be distributed freely.
+
+Official distribution through RadioMaster is permitted under:
+
+`RADIO-MASTER-LICENSE.md`
