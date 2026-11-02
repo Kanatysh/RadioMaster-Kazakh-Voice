@@ -34,10 +34,10 @@ The voice pack contains system messages, warnings, notifications and other voice
 ## Authors
 
 **Kazakh localization:**  
-[ТВОЁ ПОЛНОЕ ИМЯ]
+Duman Shaker
 
 **Voice / Voice performance:**  
-[ИМЯ ДИКТОРА]
+Aiym Toktarbekova
 
 **Project:**  
 RadioMaster Kazakh Voice Pack
@@ -96,7 +96,7 @@ Official RadioMaster website:
 
 ## Copyright
 
-Copyright © 2026 [ТВОЁ ПОЛНОЕ ИМЯ]
+Copyright © 2026 Duman Shaker
 
 All rights reserved except as expressly permitted by the accompanying license.
 
@@ -111,9 +111,9 @@ All rights reserved except as expressly permitted by the accompanying license.
 При распространении проекта рекомендуется сохранять следующую информацию:
 
 > RadioMaster Kazakh Voice Pack  
-> Kazakh localization: [ТВОЁ ИМЯ]  
-> Voice: [ИМЯ ДИКТОРА]  
-> © 2026 [ТВОЁ ИМЯ]
+> Kazakh localization: Duman Shaker  
+> Voice: Aiym Toktarbekova  
+> © 2026 Duman Shaker
 
 ---
 
@@ -145,7 +145,7 @@ This repository does not claim ownership of RadioMaster trademarks, software, fi
 
 Project author:
 
-[ТВОЁ ИМЯ]
+Duman Shaker
 
 GitHub:
 
@@ -165,7 +165,7 @@ Current version:
 
 Release date:
 
-[ДАТА]
+01.11.2026
 
 ---
 
