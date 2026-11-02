@@ -1,0 +1,32 @@
+# Changelog
+
+All notable changes to the RadioMaster Kazakh Voice Pack will be documented in this file.
+
+## [1.0.0] — 2026
+
+### Added
+
+- Initial Kazakh voice localization.
+- Kazakh system voice messages.
+- Kazakh warnings and notifications.
+- Kazakh technical terminology.
+- Initial public release.
+
+### Authors
+
+Kazakh localization: [ТВОЁ ИМЯ]
+
+Voice: [ИМЯ ДИКТОРА]
+
+---
+
+## Future versions
+
+Future releases may include:
+
+- corrected translations;
+- improved terminology;
+- additional voice messages;
+- compatibility improvements;
+- support for new RadioMaster systems;
+- corrections based on user feedback.
