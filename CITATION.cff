@@ -3,12 +3,12 @@ title: "RadioMaster Kazakh Voice Pack"
 message: "If you use or redistribute this project, please cite the original author."
 type: software
 authors:
-  - family-names: "[ФАМИЛИЯ]"
-    given-names: "[ИМЯ]"
+  - family-names: "Shaker"
+    given-names: "Duman"
     country: "KZ"
     affiliation: "Kazakhstan"
 version: "1.0.0"
-date-released: "2026-09-07"
+date-released: "2026-11-01"
 license: "RadioMaster-Kazakh-Voice-License"
 repository-code: "https://github.com/[USERNAME]/radiomaster-kazakh-voice"
 keywords:
