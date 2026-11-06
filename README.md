@@ -96,7 +96,7 @@ Official RadioMaster website:
 
 ## Copyright
 
-Copyright © 2026 Duman Shaker
+Copyright © 2026 kanatysh
 
 All rights reserved except as expressly permitted by the accompanying license.
 
@@ -145,7 +145,7 @@ This repository does not claim ownership of RadioMaster trademarks, software, fi
 
 Project author:
 
-Duman Shaker
+Duman Kanatuly Shaker
 
 GitHub:
 
