@@ -37,7 +37,7 @@ The voice pack contains system messages, warnings, notifications and other voice
 Duman Kanatuly Shaker
 
 **Voice / Voice performance:**  
-Aiym Toktarbekova Toktarbekkyzy
+Aiym Toktarbekova Toktarbekkyzy ins @toktarbekova_aiym
 
 **Project:**  
 RadioMaster Kazakh Voice Pack
